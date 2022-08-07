@@ -4,7 +4,9 @@
 ### Implementado conceitos:
 
 **Singleton (Criacional):** A instituição que representa uma sessão de uso em uma caixa eletrônico por exemplo é unica, pois nunca será permitido mais de um cliente utilizá-la ao mesmo tempo.
+
 **Facade (Estrutural):** A instituição também fornece uma interface simplificada para o sistema externo utilizar, com funções simples, isto é, a manipulação do cliente e do banco fica a cargo da Instituição.
+
 **Strategy (Comportamental):** A conta implementa uma Interface que demanda operações básicas de conta exigindo um certo comportamento mínimo.
 
 # Sumário
